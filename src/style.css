@@ -231,7 +231,7 @@ header {
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    padding: 60px 900px 0px 900px;
+    padding: 60px 900px 0px 867px;
 }
 
 .contact__field {
@@ -285,7 +285,7 @@ header {
     height: 55px;
     background: #FFFFFF;
     border: 3px solid #FFFFFF;
-    margin: 28px 908px 58px 908px;
+    margin: 28px 800px 58px 880px;
     cursor: pointer;
 }
 
@@ -308,7 +308,7 @@ header {
     text-align: center;
     text-transform: uppercase;
     color: #000000;
-    padding: 29px 815px 14px 815px;
+    padding: 29px 815px 14px 800px;
 }
 
 .text-image-left {
